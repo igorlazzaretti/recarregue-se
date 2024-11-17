@@ -11,7 +11,7 @@ let isPlaying = false;
 function updateSlides() {
     slides.forEach(slide => slide.classList.remove('active'));
     dots.forEach(dot => dot.classList.remove('active'));
-    
+
     slides[currentSlide].classList.add('active');
     dots[currentSlide].classList.add('active');
 }

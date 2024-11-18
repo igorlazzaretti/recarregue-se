@@ -31,8 +31,8 @@ Este projeto é uma espécie de continuação do projeto com dicas para os afeta
 🎓 Análise de Sistemas - Cruzeiro do Sul <br>
 💻 Estudante FullStack: DevClub <br>
 👩🏻‍💻 Autor do Site: <a href="https://igorlazzaretti.com/" style="color:pink">igorlazzaretti.com</a> <br>
-📚 Leitor e Estudante de Inglês <br> 
-🧙‍♂️ Fã de Harry Potter  <br> 
+📚 Leitor e Estudante de Inglês <br>
+🧙‍♂️ Fã de Harry Potter  <br>
 
 <div align="center" >
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" title="Meu Site Portifólio" alt="Meu Site Portifólio" width="110" height="27"/>
@@ -63,7 +63,7 @@ Este projeto é uma espécie de continuação do projeto com dicas para os afeta
 
 ##  -->
 
-<br>
+<br> <br>
 
 <div align="center">
 
